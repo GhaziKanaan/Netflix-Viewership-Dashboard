@@ -1,15 +1,14 @@
 # Netflix Viewership Dashboard
 
-## Project Overview
-This project analyzes Netflix content performance and audience engagement using interactive Tableau dashboards and business intelligence techniques.
+## Dashboard Preview
 
-The goal of this project is to identify:
-- High-performing genres
-- Audience engagement trends
-- Content popularity patterns
-- Relationships between ratings, votes, and viewership
+![Dashboard 1](stream)
+![Dashboard 2](stream%202)
+![Dashboard 3](stream%203)
+![Dashboard 4](stream%204)
 
 ---
+
 
 ## Tools Used
 - Tableau
